@@ -1,0 +1,75 @@
+div.mainClass {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+  float: inherit;
+  box-sizing: border-box;
+  height: 99%;
+}
+div.logo {
+  width: 12%;
+  background-color: black;
+  float: left;
+  height: 100%;
+}
+
+div.titleH {
+  /* padding-top: 1cm; */
+  width: 88%;
+  background-color: powderblue;
+  float: right;
+  height: 100%;
+  text-align: center;
+}
+
+div.header {
+  font-family: "Times New Roman";
+  font-style: italic;
+  font-weight: bold;
+  /* font-size: 40px; */
+  align-items: center;
+
+  height: 10%;
+}
+
+div.contents {
+  height: 85%;
+}
+
+div.main {
+  /* background-image: url("./mlSkull.jpg"); */
+  float: left;
+  width: 70%;
+  text-align: center;
+  height: 100%;
+}
+
+div.left {
+  float: left;
+  width: 12%;
+  text-align: center;
+  background-color: whitesmoke;
+  height: 100%;
+}
+
+div.right {
+  background-color: whitesmoke;
+  float: right;
+  width: 18%;
+  text-align: center;
+  height: 100%;
+}
+button.btnLogin {
+  background-color: black;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  border-color: aliceblue;
+  -webkit-text-fill-color: azure;
+}
+
+div.footer {
+  background-color: darkgray;
+  height: 5%;
+  margin-bottom: 20px;
+}
